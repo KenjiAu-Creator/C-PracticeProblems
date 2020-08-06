@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\BirthYear\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\BirthYear\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\BirthYear\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.AssemblyInfo.cs
+H:\Coding Applications\Repos\BirthYear\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\BirthYear\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.exe
+H:\Coding Applications\Repos\BirthYear\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.deps.json
+H:\Coding Applications\Repos\BirthYear\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.runtimeconfig.json
+H:\Coding Applications\Repos\BirthYear\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.runtimeconfig.dev.json
+H:\Coding Applications\Repos\BirthYear\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.dll
+H:\Coding Applications\Repos\BirthYear\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.pdb
+H:\Coding Applications\Repos\BirthYear\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.dll
+H:\Coding Applications\Repos\BirthYear\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.pdb
+H:\Coding Applications\Repos\BirthYear\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\obj\Debug\netcoreapp3.1\PracticeProb1.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\obj\Debug\netcoreapp3.1\PracticeProb1.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\obj\Debug\netcoreapp3.1\PracticeProb1.AssemblyInfo.cs
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\obj\Debug\netcoreapp3.1\PracticeProb1.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\bin\Debug\netcoreapp3.1\PracticeProb1.exe
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\bin\Debug\netcoreapp3.1\PracticeProb1.deps.json
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\bin\Debug\netcoreapp3.1\PracticeProb1.runtimeconfig.json
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\bin\Debug\netcoreapp3.1\PracticeProb1.runtimeconfig.dev.json
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\bin\Debug\netcoreapp3.1\PracticeProb1.dll
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\bin\Debug\netcoreapp3.1\PracticeProb1.pdb
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\obj\Debug\netcoreapp3.1\PracticeProb1.dll
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\obj\Debug\netcoreapp3.1\PracticeProb1.pdb
+H:\Coding Applications\Repos\PracticeProb1\PracticeProb1\obj\Debug\netcoreapp3.1\PracticeProb1.genruntimeconfig.cache

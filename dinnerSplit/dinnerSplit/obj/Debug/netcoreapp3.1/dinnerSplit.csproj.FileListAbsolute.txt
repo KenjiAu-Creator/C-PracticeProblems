@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\obj\Debug\netcoreapp3.1\dinnerSplit.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\obj\Debug\netcoreapp3.1\dinnerSplit.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\obj\Debug\netcoreapp3.1\dinnerSplit.AssemblyInfo.cs
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\obj\Debug\netcoreapp3.1\dinnerSplit.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\bin\Debug\netcoreapp3.1\dinnerSplit.exe
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\bin\Debug\netcoreapp3.1\dinnerSplit.deps.json
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\bin\Debug\netcoreapp3.1\dinnerSplit.runtimeconfig.json
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\bin\Debug\netcoreapp3.1\dinnerSplit.runtimeconfig.dev.json
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\bin\Debug\netcoreapp3.1\dinnerSplit.dll
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\bin\Debug\netcoreapp3.1\dinnerSplit.pdb
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\obj\Debug\netcoreapp3.1\dinnerSplit.dll
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\obj\Debug\netcoreapp3.1\dinnerSplit.pdb
+H:\Coding Applications\Repos\dinnerSplit\dinnerSplit\obj\Debug\netcoreapp3.1\dinnerSplit.genruntimeconfig.cache

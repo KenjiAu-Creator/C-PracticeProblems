@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\bin\Debug\netcoreapp3.1\4DigitSum.exe
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\bin\Debug\netcoreapp3.1\4DigitSum.deps.json
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\bin\Debug\netcoreapp3.1\4DigitSum.runtimeconfig.json
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\bin\Debug\netcoreapp3.1\4DigitSum.runtimeconfig.dev.json
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\bin\Debug\netcoreapp3.1\4DigitSum.dll
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\bin\Debug\netcoreapp3.1\4DigitSum.pdb
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\obj\Debug\netcoreapp3.1\4DigitSum.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\obj\Debug\netcoreapp3.1\4DigitSum.AssemblyInfo.cs
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\obj\Debug\netcoreapp3.1\4DigitSum.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\obj\Debug\netcoreapp3.1\4DigitSum.dll
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\obj\Debug\netcoreapp3.1\4DigitSum.pdb
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\obj\Debug\netcoreapp3.1\4DigitSum.genruntimeconfig.cache
+H:\Coding Applications\Repos\4DigitSum\4DigitSum\obj\Debug\netcoreapp3.1\4DigitSum.csprojAssemblyReference.cache

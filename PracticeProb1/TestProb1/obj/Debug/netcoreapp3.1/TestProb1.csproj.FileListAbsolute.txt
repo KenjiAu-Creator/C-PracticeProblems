@@ -1,0 +1,4 @@
+H:\Coding Applications\Repos\PracticeProb1\TestProb1\obj\Debug\netcoreapp3.1\TestProb1.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\PracticeProb1\TestProb1\obj\Debug\netcoreapp3.1\TestProb1.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\PracticeProb1\TestProb1\obj\Debug\netcoreapp3.1\TestProb1.AssemblyInfo.cs
+H:\Coding Applications\Repos\PracticeProb1\TestProb1\obj\Debug\netcoreapp3.1\TestProb1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.exe
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.deps.json
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.runtimeconfig.json
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.runtimeconfig.dev.json
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.dll
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\bin\Debug\netcoreapp3.1\HelloWorldUserEB.pdb
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.AssemblyInfo.cs
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.dll
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.pdb
+H:\Coding Applications\Repos\HelloWorldUserEB\HelloWorldUserEB\obj\Debug\netcoreapp3.1\HelloWorldUserEB.genruntimeconfig.cache
