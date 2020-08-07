@@ -1,0 +1,4 @@
+H:\Coding Applications\Repos\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.AssemblyInfo.cs
+H:\Coding Applications\Repos\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\Capitalize\Capitalize\bin\Debug\netcoreapp3.1\Capitalize.exe
+H:\Coding Applications\Repos\Capitalize\Capitalize\bin\Debug\netcoreapp3.1\Capitalize.deps.json
+H:\Coding Applications\Repos\Capitalize\Capitalize\bin\Debug\netcoreapp3.1\Capitalize.runtimeconfig.json
+H:\Coding Applications\Repos\Capitalize\Capitalize\bin\Debug\netcoreapp3.1\Capitalize.runtimeconfig.dev.json
+H:\Coding Applications\Repos\Capitalize\Capitalize\bin\Debug\netcoreapp3.1\Capitalize.dll
+H:\Coding Applications\Repos\Capitalize\Capitalize\bin\Debug\netcoreapp3.1\Capitalize.pdb
+H:\Coding Applications\Repos\Capitalize\Capitalize\obj\Debug\netcoreapp3.1\Capitalize.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\Capitalize\Capitalize\obj\Debug\netcoreapp3.1\Capitalize.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\Capitalize\Capitalize\obj\Debug\netcoreapp3.1\Capitalize.AssemblyInfo.cs
+H:\Coding Applications\Repos\Capitalize\Capitalize\obj\Debug\netcoreapp3.1\Capitalize.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\Capitalize\Capitalize\obj\Debug\netcoreapp3.1\Capitalize.dll
+H:\Coding Applications\Repos\Capitalize\Capitalize\obj\Debug\netcoreapp3.1\Capitalize.pdb
+H:\Coding Applications\Repos\Capitalize\Capitalize\obj\Debug\netcoreapp3.1\Capitalize.genruntimeconfig.cache
