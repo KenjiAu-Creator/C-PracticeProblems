@@ -20,7 +20,7 @@ namespace HypotenuseFinder
 
             // a^2 + b^2 = c^2
 
-            double length3 = Math.Sqrt(Math.Pow(length1,2) + Math.Pow(length2,2));
+            double length3 = Math.Round(Math.Sqrt(Math.Pow(length1,2) + Math.Pow(length2,2)),2);
             Console.WriteLine("The hypotenuse is " + length3);
         }
     }
