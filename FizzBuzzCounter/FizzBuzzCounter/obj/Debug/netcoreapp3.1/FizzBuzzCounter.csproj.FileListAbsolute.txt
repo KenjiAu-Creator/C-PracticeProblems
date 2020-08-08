@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\obj\Debug\netcoreapp3.1\FizzBuzzCounter.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\obj\Debug\netcoreapp3.1\FizzBuzzCounter.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\obj\Debug\netcoreapp3.1\FizzBuzzCounter.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\obj\Debug\netcoreapp3.1\FizzBuzzCounter.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\bin\Debug\netcoreapp3.1\FizzBuzzCounter.exe
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\bin\Debug\netcoreapp3.1\FizzBuzzCounter.deps.json
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\bin\Debug\netcoreapp3.1\FizzBuzzCounter.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\bin\Debug\netcoreapp3.1\FizzBuzzCounter.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\bin\Debug\netcoreapp3.1\FizzBuzzCounter.dll
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\bin\Debug\netcoreapp3.1\FizzBuzzCounter.pdb
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\obj\Debug\netcoreapp3.1\FizzBuzzCounter.dll
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\obj\Debug\netcoreapp3.1\FizzBuzzCounter.pdb
+H:\Coding Applications\Repos\C#PractProb\FizzBuzzCounter\FizzBuzzCounter\obj\Debug\netcoreapp3.1\FizzBuzzCounter.genruntimeconfig.cache
