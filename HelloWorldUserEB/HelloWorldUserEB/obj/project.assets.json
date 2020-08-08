@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
+      "projectUniqueName": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
       "projectName": "HelloWorldUserEB",
-      "projectPath": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
+      "projectPath": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
       "packagesPath": "C:\\Users\\Kenji\\.nuget\\packages\\",
-      "outputPath": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\HelloWorldUserEB\\obj\\",
+      "outputPath": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\HelloWorldUserEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kenji\\AppData\\Roaming\\NuGet\\NuGet.Config",

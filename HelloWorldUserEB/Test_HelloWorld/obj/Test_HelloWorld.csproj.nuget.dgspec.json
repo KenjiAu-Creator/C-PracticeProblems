@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj": {}
+    "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj": {}
   },
   "projects": {
-    "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj": {
+    "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
+        "projectUniqueName": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
         "projectName": "HelloWorldUserEB",
-        "projectPath": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
+        "projectPath": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj",
         "packagesPath": "C:\\Users\\Kenji\\.nuget\\packages\\",
-        "outputPath": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\HelloWorldUserEB\\obj\\",
+        "outputPath": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\HelloWorldUserEB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kenji\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj": {
+    "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj",
+        "projectUniqueName": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj",
         "projectName": "Test_HelloWorld",
-        "projectPath": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj",
+        "projectPath": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Kenji\\.nuget\\packages\\",
-        "outputPath": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\Test_HelloWorld\\obj\\",
+        "outputPath": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\Test_HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kenji\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj": {
-                "projectPath": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj"
+              "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj": {
+                "projectPath": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj"
               }
             }
           }
@@ -100,7 +100,7 @@
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.15.1, )"
+              "version": "[3.17.0, )"
             },
             "nunit": {
               "target": "Package",

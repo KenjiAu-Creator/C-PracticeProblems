@@ -441,7 +441,7 @@
           "build/NUnit.props": {}
         }
       },
-      "NUnit3TestAdapter/3.15.1": {
+      "NUnit3TestAdapter/3.17.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.DotNet.InternalAbstractions": "1.0.0",
@@ -455,7 +455,7 @@
           "System.Xml.XmlDocument": "4.3.0"
         },
         "build": {
-          "build/netcoreapp2.0/NUnit3TestAdapter.props": {}
+          "build/netcoreapp2.1/NUnit3TestAdapter.props": {}
         }
       },
       "runtime.native.System/4.3.0": {
@@ -1890,10 +1890,10 @@
         "nunit.nuspec"
       ]
     },
-    "NUnit3TestAdapter/3.15.1": {
-      "sha512": "gqy0llGjhJYq9ebFvtbmBcF/MY8z5kcTIxYs+eXwp2d4Ntha8pSPxUzryvBm7H46VbWI6FS5/XNbxwiQpe88vQ==",
+    "NUnit3TestAdapter/3.17.0": {
+      "sha512": "I9MNvK+GM2yXrHPitwZkAZKU9sYI2OO/8wKC+VuBD7V3z+ySQ1pSopX/urr0ooedI8/TIcajYPRO4vGRr7AM8A==",
       "type": "package",
-      "path": "nunit3testadapter/3.15.1",
+      "path": "nunit3testadapter/3.17.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1902,18 +1902,15 @@
         "build/net35/NUnit3.TestAdapter.pdb",
         "build/net35/NUnit3TestAdapter.props",
         "build/net35/nunit.engine.api.dll",
+        "build/net35/nunit.engine.core.dll",
         "build/net35/nunit.engine.dll",
-        "build/netcoreapp1.0/NUnit3.TestAdapter.dll",
-        "build/netcoreapp1.0/NUnit3.TestAdapter.pdb",
-        "build/netcoreapp1.0/NUnit3TestAdapter.props",
-        "build/netcoreapp1.0/nunit.engine.api.dll",
-        "build/netcoreapp1.0/nunit.engine.dll",
-        "build/netcoreapp2.0/NUnit3.TestAdapter.dll",
-        "build/netcoreapp2.0/NUnit3.TestAdapter.pdb",
-        "build/netcoreapp2.0/NUnit3TestAdapter.props",
-        "build/netcoreapp2.0/nunit.engine.api.dll",
-        "build/netcoreapp2.0/nunit.engine.dll",
-        "nunit3testadapter.3.15.1.nupkg.sha512",
+        "build/netcoreapp2.1/NUnit3.TestAdapter.dll",
+        "build/netcoreapp2.1/NUnit3.TestAdapter.pdb",
+        "build/netcoreapp2.1/NUnit3TestAdapter.props",
+        "build/netcoreapp2.1/nunit.engine.api.dll",
+        "build/netcoreapp2.1/nunit.engine.core.dll",
+        "build/netcoreapp2.1/nunit.engine.dll",
+        "nunit3testadapter.3.17.0.nupkg.sha512",
         "nunit3testadapter.nuspec"
       ]
     },
@@ -4639,7 +4636,7 @@
     ".NETCoreApp,Version=v3.1": [
       "HelloWorldUserEB >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.4.0",
-      "NUnit3TestAdapter >= 3.15.1",
+      "NUnit3TestAdapter >= 3.17.0",
       "nunit >= 3.12.0"
     ]
   },
@@ -4649,11 +4646,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj",
+      "projectUniqueName": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj",
       "projectName": "Test_HelloWorld",
-      "projectPath": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj",
+      "projectPath": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Kenji\\.nuget\\packages\\",
-      "outputPath": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\Test_HelloWorld\\obj\\",
+      "outputPath": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\Test_HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kenji\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4669,8 +4666,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj": {
-              "projectPath": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj"
+            "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj": {
+              "projectPath": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\HelloWorldUserEB\\HelloWorldUserEB.csproj"
             }
           }
         }
@@ -4690,7 +4687,7 @@
           },
           "NUnit3TestAdapter": {
             "target": "Package",
-            "version": "[3.15.1, )"
+            "version": "[3.17.0, )"
           },
           "nunit": {
             "target": "Package",

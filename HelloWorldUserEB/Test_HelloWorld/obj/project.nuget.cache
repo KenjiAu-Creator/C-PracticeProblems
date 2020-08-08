@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kKA9cq/v7mccmcTD+vcgq9RY5MaUFVJyihJ7LE/dsmLtcZ3l/IpyIa5tb5oHlJ4egdX0Xyy8zYaQlw+A4hj+3Q==",
+  "dgSpecHash": "0pvkE9SGp7ppXzJfo2X0+cHELW/D+vGn9RRWzKSlao46WbIwkXQ3zPr7fSZU6F52OAOAXw0f2i5XkNPVfZ+I7w==",
   "success": true,
-  "projectFilePath": "H:\\Coding Applications\\Repos\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj",
+  "projectFilePath": "H:\\Coding Applications\\Repos\\C#PractProb\\HelloWorldUserEB\\Test_HelloWorld\\Test_HelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenji\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\Kenji\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -18,7 +18,7 @@
     "C:\\Users\\Kenji\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Kenji\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\Kenji\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
-    "C:\\Users\\Kenji\\.nuget\\packages\\nunit3testadapter\\3.15.1\\nunit3testadapter.3.15.1.nupkg.sha512",
+    "C:\\Users\\Kenji\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
     "C:\\Users\\Kenji\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Kenji\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\Kenji\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
