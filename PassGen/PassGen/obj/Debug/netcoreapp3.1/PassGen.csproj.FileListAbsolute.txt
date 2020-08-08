@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\obj\Debug\netcoreapp3.1\PassGen.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\obj\Debug\netcoreapp3.1\PassGen.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\obj\Debug\netcoreapp3.1\PassGen.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\bin\Debug\netcoreapp3.1\PassGen.exe
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\bin\Debug\netcoreapp3.1\PassGen.deps.json
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\bin\Debug\netcoreapp3.1\PassGen.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\bin\Debug\netcoreapp3.1\PassGen.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\bin\Debug\netcoreapp3.1\PassGen.dll
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\bin\Debug\netcoreapp3.1\PassGen.pdb
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\obj\Debug\netcoreapp3.1\PassGen.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\obj\Debug\netcoreapp3.1\PassGen.dll
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\obj\Debug\netcoreapp3.1\PassGen.pdb
+H:\Coding Applications\Repos\C#PractProb\PassGen\PassGen\obj\Debug\netcoreapp3.1\PassGen.genruntimeconfig.cache
