@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\bin\Debug\netcoreapp3.1\DaysInMonthCalc.exe
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\bin\Debug\netcoreapp3.1\DaysInMonthCalc.deps.json
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\bin\Debug\netcoreapp3.1\DaysInMonthCalc.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\bin\Debug\netcoreapp3.1\DaysInMonthCalc.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\bin\Debug\netcoreapp3.1\DaysInMonthCalc.dll
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\bin\Debug\netcoreapp3.1\DaysInMonthCalc.pdb
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\obj\Debug\netcoreapp3.1\DaysInMonthCalc.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\obj\Debug\netcoreapp3.1\DaysInMonthCalc.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\obj\Debug\netcoreapp3.1\DaysInMonthCalc.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\obj\Debug\netcoreapp3.1\DaysInMonthCalc.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\obj\Debug\netcoreapp3.1\DaysInMonthCalc.dll
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\obj\Debug\netcoreapp3.1\DaysInMonthCalc.pdb
+H:\Coding Applications\Repos\C#PractProb\DaysInMonthCalc\DaysInMonthCalc\obj\Debug\netcoreapp3.1\DaysInMonthCalc.genruntimeconfig.cache
