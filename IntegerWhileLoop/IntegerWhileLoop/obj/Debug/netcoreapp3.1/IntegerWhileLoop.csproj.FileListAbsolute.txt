@@ -10,3 +10,4 @@ H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\obj\D
 H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\obj\Debug\netcoreapp3.1\IntegerWhileLoop.dll
 H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\obj\Debug\netcoreapp3.1\IntegerWhileLoop.pdb
 H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\obj\Debug\netcoreapp3.1\IntegerWhileLoop.genruntimeconfig.cache
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\obj\Debug\netcoreapp3.1\IntegerWhileLoop.csprojAssemblyReference.cache
