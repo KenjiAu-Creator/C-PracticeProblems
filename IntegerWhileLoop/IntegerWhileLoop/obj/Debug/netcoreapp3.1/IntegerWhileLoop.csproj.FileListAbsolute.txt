@@ -1,0 +1,12 @@
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\bin\Debug\netcoreapp3.1\IntegerWhileLoop.exe
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\bin\Debug\netcoreapp3.1\IntegerWhileLoop.deps.json
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\bin\Debug\netcoreapp3.1\IntegerWhileLoop.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\bin\Debug\netcoreapp3.1\IntegerWhileLoop.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\bin\Debug\netcoreapp3.1\IntegerWhileLoop.dll
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\bin\Debug\netcoreapp3.1\IntegerWhileLoop.pdb
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\obj\Debug\netcoreapp3.1\IntegerWhileLoop.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\obj\Debug\netcoreapp3.1\IntegerWhileLoop.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\obj\Debug\netcoreapp3.1\IntegerWhileLoop.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\obj\Debug\netcoreapp3.1\IntegerWhileLoop.dll
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\obj\Debug\netcoreapp3.1\IntegerWhileLoop.pdb
+H:\Coding Applications\Repos\C#PractProb\IntegerWhileLoop\IntegerWhileLoop\obj\Debug\netcoreapp3.1\IntegerWhileLoop.genruntimeconfig.cache
