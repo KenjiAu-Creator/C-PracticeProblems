@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\bin\Debug\netcoreapp3.1\ClassMarker.exe
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\bin\Debug\netcoreapp3.1\ClassMarker.deps.json
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\bin\Debug\netcoreapp3.1\ClassMarker.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\bin\Debug\netcoreapp3.1\ClassMarker.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\bin\Debug\netcoreapp3.1\ClassMarker.dll
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\bin\Debug\netcoreapp3.1\ClassMarker.pdb
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\obj\Debug\netcoreapp3.1\ClassMarker.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\obj\Debug\netcoreapp3.1\ClassMarker.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\obj\Debug\netcoreapp3.1\ClassMarker.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\obj\Debug\netcoreapp3.1\ClassMarker.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\obj\Debug\netcoreapp3.1\ClassMarker.dll
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\obj\Debug\netcoreapp3.1\ClassMarker.pdb
+H:\Coding Applications\Repos\C#PractProb\ClassAverageMarker\ClassAverageMarker\obj\Debug\netcoreapp3.1\ClassMarker.genruntimeconfig.cache
