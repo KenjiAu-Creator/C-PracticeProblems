@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\bin\Debug\netcoreapp3.1\DoWhileHello.exe
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\bin\Debug\netcoreapp3.1\DoWhileHello.deps.json
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\bin\Debug\netcoreapp3.1\DoWhileHello.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\bin\Debug\netcoreapp3.1\DoWhileHello.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\bin\Debug\netcoreapp3.1\DoWhileHello.dll
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\bin\Debug\netcoreapp3.1\DoWhileHello.pdb
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\obj\Debug\netcoreapp3.1\DoWhileHello.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\obj\Debug\netcoreapp3.1\DoWhileHello.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\obj\Debug\netcoreapp3.1\DoWhileHello.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\obj\Debug\netcoreapp3.1\DoWhileHello.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\obj\Debug\netcoreapp3.1\DoWhileHello.dll
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\obj\Debug\netcoreapp3.1\DoWhileHello.pdb
+H:\Coding Applications\Repos\C#PractProb\DoWhileHello\DoWhileHello\obj\Debug\netcoreapp3.1\DoWhileHello.genruntimeconfig.cache
