@@ -13,6 +13,7 @@ namespace DoWhileHello
       // Initialize
       Boolean exit = false;
 
+      // Loop / calculation
       do
       {
         Console.WriteLine("Hello");
