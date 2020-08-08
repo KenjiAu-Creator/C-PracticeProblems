@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\bin\Debug\netcoreapp3.1\HypotenuseFinder.exe
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\bin\Debug\netcoreapp3.1\HypotenuseFinder.deps.json
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\bin\Debug\netcoreapp3.1\HypotenuseFinder.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\bin\Debug\netcoreapp3.1\HypotenuseFinder.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\bin\Debug\netcoreapp3.1\HypotenuseFinder.dll
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\bin\Debug\netcoreapp3.1\HypotenuseFinder.pdb
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\obj\Debug\netcoreapp3.1\HypotenuseFinder.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\obj\Debug\netcoreapp3.1\HypotenuseFinder.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\obj\Debug\netcoreapp3.1\HypotenuseFinder.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\obj\Debug\netcoreapp3.1\HypotenuseFinder.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\obj\Debug\netcoreapp3.1\HypotenuseFinder.dll
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\obj\Debug\netcoreapp3.1\HypotenuseFinder.pdb
+H:\Coding Applications\Repos\C#PractProb\HypotenuseFinder\HypotenuseFinder\obj\Debug\netcoreapp3.1\HypotenuseFinder.genruntimeconfig.cache
