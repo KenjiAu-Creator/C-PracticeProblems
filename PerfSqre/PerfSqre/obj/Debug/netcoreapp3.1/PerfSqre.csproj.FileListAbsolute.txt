@@ -1,0 +1,12 @@
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\bin\Debug\netcoreapp3.1\PerfSqre.exe
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\bin\Debug\netcoreapp3.1\PerfSqre.deps.json
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\bin\Debug\netcoreapp3.1\PerfSqre.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\bin\Debug\netcoreapp3.1\PerfSqre.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\bin\Debug\netcoreapp3.1\PerfSqre.dll
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\bin\Debug\netcoreapp3.1\PerfSqre.pdb
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\obj\Debug\netcoreapp3.1\PerfSqre.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\obj\Debug\netcoreapp3.1\PerfSqre.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\obj\Debug\netcoreapp3.1\PerfSqre.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\obj\Debug\netcoreapp3.1\PerfSqre.dll
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\obj\Debug\netcoreapp3.1\PerfSqre.pdb
+H:\Coding Applications\Repos\C#PractProb\PerfSqre\PerfSqre\obj\Debug\netcoreapp3.1\PerfSqre.genruntimeconfig.cache
