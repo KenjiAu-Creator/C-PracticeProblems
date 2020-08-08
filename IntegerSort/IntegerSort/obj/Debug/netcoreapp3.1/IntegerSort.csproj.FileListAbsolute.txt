@@ -2,3 +2,16 @@ H:\Coding Applications\Repos\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\Int
 H:\Coding Applications\Repos\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.AssemblyInfoInputs.cache
 H:\Coding Applications\Repos\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.AssemblyInfo.cs
 H:\Coding Applications\Repos\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\bin\Debug\netcoreapp3.1\IntegerSort.exe
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\bin\Debug\netcoreapp3.1\IntegerSort.deps.json
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\bin\Debug\netcoreapp3.1\IntegerSort.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\bin\Debug\netcoreapp3.1\IntegerSort.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\bin\Debug\netcoreapp3.1\IntegerSort.dll
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\bin\Debug\netcoreapp3.1\IntegerSort.pdb
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.dll
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.pdb
+H:\Coding Applications\Repos\C#PractProb\IntegerSort\IntegerSort\obj\Debug\netcoreapp3.1\IntegerSort.genruntimeconfig.cache

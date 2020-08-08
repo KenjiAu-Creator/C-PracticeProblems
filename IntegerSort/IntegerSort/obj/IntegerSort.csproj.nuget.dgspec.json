@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Coding Applications\\Repos\\IntegerSort\\IntegerSort\\IntegerSort.csproj": {}
+    "H:\\Coding Applications\\Repos\\C#PractProb\\IntegerSort\\IntegerSort\\IntegerSort.csproj": {}
   },
   "projects": {
-    "H:\\Coding Applications\\Repos\\IntegerSort\\IntegerSort\\IntegerSort.csproj": {
+    "H:\\Coding Applications\\Repos\\C#PractProb\\IntegerSort\\IntegerSort\\IntegerSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Coding Applications\\Repos\\IntegerSort\\IntegerSort\\IntegerSort.csproj",
+        "projectUniqueName": "H:\\Coding Applications\\Repos\\C#PractProb\\IntegerSort\\IntegerSort\\IntegerSort.csproj",
         "projectName": "IntegerSort",
-        "projectPath": "H:\\Coding Applications\\Repos\\IntegerSort\\IntegerSort\\IntegerSort.csproj",
+        "projectPath": "H:\\Coding Applications\\Repos\\C#PractProb\\IntegerSort\\IntegerSort\\IntegerSort.csproj",
         "packagesPath": "C:\\Users\\Kenji\\.nuget\\packages\\",
-        "outputPath": "H:\\Coding Applications\\Repos\\IntegerSort\\IntegerSort\\obj\\",
+        "outputPath": "H:\\Coding Applications\\Repos\\C#PractProb\\IntegerSort\\IntegerSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kenji\\AppData\\Roaming\\NuGet\\NuGet.Config",
