@@ -12,15 +12,15 @@ namespace HypotenuseFinder
 
             // Length 1
             Console.WriteLine("Please input the length of one side");
-            int length1 = Convert.ToInt32(Console.ReadLine());
+            double length1 = Convert.ToDouble(Console.ReadLine());
 
             // Length 2
             Console.WriteLine("Please input the length of the second side");
-            int length2 = Convert.ToInt32(Console.ReadLine());
+            double length2 = Convert.ToDouble(Console.ReadLine());
 
             // a^2 + b^2 = c^2
 
-            double length3 = Math.Sqrt(length1 ^ 2 + length2 ^ 2);
+            double length3 = Math.Sqrt(Math.Pow(length1,2) + Math.Pow(length2,2));
             Console.WriteLine("The hypotenuse is " + length3);
         }
     }

@@ -1,0 +1,12 @@
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.exe
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.deps.json
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.dll
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.pdb
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.dll
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.pdb
+H:\Coding Applications\Repos\C#PractProb\OddOrEven\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.genruntimeconfig.cache

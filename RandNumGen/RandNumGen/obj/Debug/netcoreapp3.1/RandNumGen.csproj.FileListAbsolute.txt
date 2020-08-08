@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\bin\Debug\netcoreapp3.1\RandNumGen.exe
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\bin\Debug\netcoreapp3.1\RandNumGen.deps.json
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\bin\Debug\netcoreapp3.1\RandNumGen.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\bin\Debug\netcoreapp3.1\RandNumGen.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\bin\Debug\netcoreapp3.1\RandNumGen.dll
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\bin\Debug\netcoreapp3.1\RandNumGen.pdb
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\obj\Debug\netcoreapp3.1\RandNumGen.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\obj\Debug\netcoreapp3.1\RandNumGen.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\obj\Debug\netcoreapp3.1\RandNumGen.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\obj\Debug\netcoreapp3.1\RandNumGen.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\obj\Debug\netcoreapp3.1\RandNumGen.dll
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\obj\Debug\netcoreapp3.1\RandNumGen.pdb
+H:\Coding Applications\Repos\C#PractProb\RandNumGen\RandNumGen\obj\Debug\netcoreapp3.1\RandNumGen.genruntimeconfig.cache
