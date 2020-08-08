@@ -1,0 +1,13 @@
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\bin\Debug\netcoreapp3.1\FencePainting.exe
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\bin\Debug\netcoreapp3.1\FencePainting.deps.json
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\bin\Debug\netcoreapp3.1\FencePainting.runtimeconfig.json
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\bin\Debug\netcoreapp3.1\FencePainting.runtimeconfig.dev.json
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\bin\Debug\netcoreapp3.1\FencePainting.dll
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\bin\Debug\netcoreapp3.1\FencePainting.pdb
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\obj\Debug\netcoreapp3.1\FencePainting.csprojAssemblyReference.cache
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\obj\Debug\netcoreapp3.1\FencePainting.AssemblyInfoInputs.cache
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\obj\Debug\netcoreapp3.1\FencePainting.AssemblyInfo.cs
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\obj\Debug\netcoreapp3.1\FencePainting.csproj.CoreCompileInputs.cache
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\obj\Debug\netcoreapp3.1\FencePainting.dll
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\obj\Debug\netcoreapp3.1\FencePainting.pdb
+H:\Coding Applications\Repos\C#PractProb\FencePainting\FencePainting\obj\Debug\netcoreapp3.1\FencePainting.genruntimeconfig.cache
