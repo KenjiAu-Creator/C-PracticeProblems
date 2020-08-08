@@ -18,12 +18,13 @@ namespace IntegerWhileLoop
         // user input
         while (inputAcceptable != true)
         {
-          // Do stuff
           Console.WriteLine("Please input an integer between 1 and 10.");
+
+          // https://stackoverflow.com/questions/1752499/c-sharp-testing-to-see-if-a-string-is-an-integer/1752527#1752527
+          // Code for checking if a string is a integer or not
 
           string userStringInput = Console.ReadLine();
           int userInput = 0;
-
           int value;
           if (int.TryParse(userStringInput, out value))
           {
