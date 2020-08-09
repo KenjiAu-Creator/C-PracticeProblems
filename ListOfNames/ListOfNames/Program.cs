@@ -48,6 +48,7 @@ namespace ListOfNames
 
           case "delete":
             {
+              nameList = self.deleteName(nameList);
               break;
             }
 
@@ -126,10 +127,57 @@ namespace ListOfNames
       }
     }
 
-    //public string[] deleteName(string[] arrayOfNames, string name)
-    //{
-    
-    //}
+    public string[] deleteName(string[] arrayOfNames)
+    {
+      // This method will take in an array of strings
+      // This method will delete the name from the existing array
+
+      // First ask the user if they want to delete by name or index
+      Console.WriteLine("Do you wish to delete by index or by name?");
+      string userInput = Console.ReadLine();
+      int i = -1;
+      switch (userInput)
+      {
+        case ("index"):
+          {
+            Console.WriteLine("What index would you like to delete?");
+            int indexToDelete = (Convert.ToInt32(Console.ReadLine()) - 1);
+            var listOfNames = new List<string>();
+
+            foreach (string name in arrayOfNames)
+            {
+              i++;
+              if (i != indexToDelete)
+                {
+                  listOfNames = listOfNames.Append(name).ToList();
+                }
+            }
+            string[] newArray = listOfNames.ToArray();
+            return newArray;
+          }
+        case ("name"):
+          {
+            Console.WriteLine("What name would you like to delete?");
+            string nameToDelete = Console.ReadLine();
+            var listOfNames = new List<string>();
+            foreach (string name in arrayOfNames)
+            {
+              if (name != nameToDelete)
+              {
+                listOfNames = listOfNames.Append(name).ToList();
+              }
+            }
+            string[] newArray = listOfNames.ToArray();
+            return newArray;
+          }
+        default:
+          {
+            Console.WriteLine("You didnt choose index or name!");
+            return arrayOfNames;
+          }
+      }
+
+    }
 
     public void outputName(string[] arrayOfNames)
     {
