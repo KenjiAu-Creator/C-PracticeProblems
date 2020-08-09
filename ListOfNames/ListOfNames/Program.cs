@@ -38,7 +38,7 @@ namespace ListOfNames
                 break;
               }
               Console.WriteLine("Please enter in the name you would like to add");
-              string name = Console.ReadLine();
+              string name = Console.ReadLine().Trim();
               nameList = self.addName(nameList, name);
               break;
             }
@@ -46,7 +46,7 @@ namespace ListOfNames
           case "update":
             {
               Console.WriteLine("Please enter in the name you would input into the list first");
-              string name = Console.ReadLine();
+              string name = Console.ReadLine().Trim();
               nameList = self.updateName(nameList, name);
               break;
             }
