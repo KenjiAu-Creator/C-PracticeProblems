@@ -32,6 +32,11 @@ namespace ListOfNames
         {
           case "insert":
             {
+              if (nameList.Length >= 10)
+              {
+                Console.WriteLine("The list has already reached its maximum amount (10)");
+                break;
+              }
               Console.WriteLine("Please enter in the name you would like to add");
               string name = Console.ReadLine();
               nameList = self.addName(nameList, name);
@@ -176,7 +181,6 @@ namespace ListOfNames
             return arrayOfNames;
           }
       }
-
     }
 
     public void outputName(string[] arrayOfNames)
