@@ -19,33 +19,54 @@ namespace ListOfNames
       // Initialize the array
       string[] nameList = new string[] { };
       Program self = new Program();
-      Console.WriteLine("Would you like to insert, update, delete, or output from the list of names?");
+      Boolean exitCon = false;
 
-      string userInput = Console.ReadLine().ToLower();
-      switch (userInput)
+      while (exitCon != true)
       {
-        case "insert":
-          {
-            Console.WriteLine("Please enter in the name you would like to add");
-            string name = Console.ReadLine();
-            string[] nameList2 = self.addName(nameList, name);
-            break;
-          }
+        Console.WriteLine("Would you like to insert, update, delete, or output from the list of names?");
+        Console.WriteLine("--------------------------------------------------------------------------");
+        Console.WriteLine("Type exit if you would like to close the program");
 
-        case "update":
-          {
-            break;
-          }
+        string userInput = Console.ReadLine().ToLower();
+        switch (userInput)
+        {
+          case "insert":
+            {
+              Console.WriteLine("Please enter in the name you would like to add");
+              string name = Console.ReadLine();
+              nameList = self.addName(nameList, name);
+              break;
+            }
 
-        case "delete":
-          {
-            break;
-          }
+          case "update":
+            {
+              Console.WriteLine("Please enter in the name you would input into the list first");
+              string name = Console.ReadLine();
+              nameList = self.updateName(nameList, name);
+              break;
+            }
 
-        case "output":
-          {
-            break;
-          }
+          case "delete":
+            {
+              break;
+            }
+
+          case "output":
+            {
+              break;
+            }
+          case "exit":
+            {
+              exitCon = true;
+              break;
+            }
+          default:
+            {
+              Console.WriteLine("Command not recognized. Please try again.");
+              Console.WriteLine("                                                             ");
+              break;
+            }
+        }
       }
     }
 
@@ -73,7 +94,45 @@ namespace ListOfNames
 
     public string[] updateName(string[] arrayOfNames, string name)
     {
+      // This method will take in an array of strings and a string.
+      // This method will update an existing entry in the array with the name supplied
 
+      // First need to ask the user if they want to update by name or by index
+      Console.WriteLine("Do you wish to update by index or by name?");
+      string userInput = Console.ReadLine();
+      switch (userInput)
+      {
+        case ("index"):
+          {
+            Console.WriteLine("What index would you like to update?");
+            int indexToUpdate = (Convert.ToInt32(Console.ReadLine()) - 1);
+            arrayOfNames[indexToUpdate] = name;
+            return arrayOfNames;
+          }
+        case ("name"):
+          {
+            Console.WriteLine("What name would you like to update?");
+            string nameToUpdate = Console.ReadLine();
+            int indexToUpdate = Array.IndexOf(arrayOfNames, nameToUpdate);
+            arrayOfNames[indexToUpdate] = name;
+            return arrayOfNames;
+          }
+        default:
+          {
+            Console.WriteLine("You didnt choose index or name!");
+            return arrayOfNames;
+          }
+      }
     }
+
+    //public string[] deleteName(string[] arrayOfNames, string name)
+    //{
+    
+    //}
+
+    //public string[] outputName(string[] arrayOfNames)
+    //{
+
+    //}
   }
 }
