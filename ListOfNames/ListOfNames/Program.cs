@@ -53,6 +53,7 @@ namespace ListOfNames
 
           case "output":
             {
+              self.outputName(nameList);
               break;
             }
           case "exit":
@@ -130,9 +131,18 @@ namespace ListOfNames
     
     //}
 
-    //public string[] outputName(string[] arrayOfNames)
-    //{
-
-    //}
+    public void outputName(string[] arrayOfNames)
+    {
+      // This method will output the array of names in the system
+      Console.WriteLine("                                                    ");
+      Console.WriteLine("Here is a list of the names currently in the system:");
+      int i = 0;
+      foreach (string name in arrayOfNames)
+      {
+        i++;
+        Console.WriteLine(i + ". " + name);
+      }
+      Console.WriteLine("----------------------------------------------------");
+    }
   }
 }
