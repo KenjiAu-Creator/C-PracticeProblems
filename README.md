@@ -27,7 +27,7 @@ Problem 5 -PassGen
 
 # Expressions and Decisions
 
-Problem 1 - 
+Problem 1 - RandNumGen
 
 Problem 2 - OddOrEven
 
@@ -39,23 +39,22 @@ Problem 5 - DaysInMonthCalc
 
 # Iteration and Basic Validation
 
-Problem 1 - 
+Problem 1 - IntegerWhileLoop
 
-Problem 2 -
+Problem 2 - DoWhileHello
 
-Problem 3 - 
+Problem 3 - FizzBuzzCounter
 
-Problem 4 -
+Problem 4 - ClassAverageMarker
 
-Problem 5 -
 
 # Exception Handling and Intermediate Validation
 
-Problem 1 -
+Problem 1 - RandNumGen
 
-Problem 2 -
+Problem 2 - SimpleCalc
 
-Problem 3 -
+Problem 3 - FizzBuzzCounter
 
 # Arrays and Basic Data Structures
 
