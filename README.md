@@ -50,12 +50,12 @@ Problem 4 - ClassAverageMarker
 
 # Exception Handling and Intermediate Validation
 
-Problem 1 - RandNumGen
+Problem 1 - RandNumGen (Expressions and Decisions)
 
-Problem 2 - SimpleCalc
+Problem 2 - SimpleCalc (Expressions and Decisions)
 
-Problem 3 - FizzBuzzCounter
+Problem 3 - FizzBuzzCounter (Iteration and Basic Validation)
 
 # Arrays and Basic Data Structures
 
-Problem 1 -
+Problem 1 - ListOfNames

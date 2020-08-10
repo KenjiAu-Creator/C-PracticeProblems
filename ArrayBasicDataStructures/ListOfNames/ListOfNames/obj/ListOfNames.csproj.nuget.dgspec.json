@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Coding Applications\\Repos\\C#PractProb\\ListOfNames\\ListOfNames\\ListOfNames.csproj": {}
+    "H:\\Coding Applications\\Repos\\C#PractProb\\ArrayBasicDataStructures\\ListOfNames\\ListOfNames\\ListOfNames.csproj": {}
   },
   "projects": {
-    "H:\\Coding Applications\\Repos\\C#PractProb\\ListOfNames\\ListOfNames\\ListOfNames.csproj": {
+    "H:\\Coding Applications\\Repos\\C#PractProb\\ArrayBasicDataStructures\\ListOfNames\\ListOfNames\\ListOfNames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Coding Applications\\Repos\\C#PractProb\\ListOfNames\\ListOfNames\\ListOfNames.csproj",
+        "projectUniqueName": "H:\\Coding Applications\\Repos\\C#PractProb\\ArrayBasicDataStructures\\ListOfNames\\ListOfNames\\ListOfNames.csproj",
         "projectName": "ListOfNames",
-        "projectPath": "H:\\Coding Applications\\Repos\\C#PractProb\\ListOfNames\\ListOfNames\\ListOfNames.csproj",
+        "projectPath": "H:\\Coding Applications\\Repos\\C#PractProb\\ArrayBasicDataStructures\\ListOfNames\\ListOfNames\\ListOfNames.csproj",
         "packagesPath": "C:\\Users\\Kenji\\.nuget\\packages\\",
-        "outputPath": "H:\\Coding Applications\\Repos\\C#PractProb\\ListOfNames\\ListOfNames\\obj\\",
+        "outputPath": "H:\\Coding Applications\\Repos\\C#PractProb\\ArrayBasicDataStructures\\ListOfNames\\ListOfNames\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kenji\\AppData\\Roaming\\NuGet\\NuGet.Config",
