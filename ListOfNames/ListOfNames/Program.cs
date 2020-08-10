@@ -18,8 +18,7 @@ namespace ListOfNames
 
       // To do
       // No duplicates
-      // More than one word in length for names
-      // 
+
 
       // Initialize the array
       string[] nameList = new string[] { };
@@ -40,6 +39,7 @@ namespace ListOfNames
               if (nameList.Length >= 10)
               {
                 Console.WriteLine("The list has already reached its maximum amount (10)");
+                Console.WriteLine("--------------------------------------------------------------------------");
                 break;
               }
               Console.WriteLine("Please enter in the name you would like to add");
@@ -52,11 +52,12 @@ namespace ListOfNames
               else if (name.Contains(" "))
               {
                 Console.WriteLine("Only one word names are allowed in the list at this time.");
+                Console.WriteLine("--------------------------------------------------------------------------");
                 break;
               }
               else
               {
-                nameList = self.updateName(nameList, name);
+                nameList = self.addName(nameList, name);
                 break;
               }
             }
@@ -68,11 +69,13 @@ namespace ListOfNames
               if (name.Length <= 2)
               {
                 Console.WriteLine("The name can not be less than 2 characters long!");
+                Console.WriteLine("--------------------------------------------------------------------------");
                 break;
               }
               else if (name.Contains(" "))
               {
                 Console.WriteLine("Only one word names are allow in the list at this time.");
+                Console.WriteLine("--------------------------------------------------------------------------");
                 break;
               }
               else
@@ -114,17 +117,36 @@ namespace ListOfNames
       // This method will output a new Array with the name added.
       // If the array of names is empty, a new array is made with the inputted name
 
+      // Capitalization code
+      List<string> nameList = name.Split(",").ToList();
+      nameList[0] = name[0].ToString().ToUpper();
+      int nameIndex = 0;
+      foreach (char letter in name)
+      {
+        if (nameIndex == 0)
+        {
+          nameIndex++;
+        }
+        else
+        {
+          nameList.Add(letter.ToString());
+          nameIndex++;
+        }
+      }
+      string titleName = string.Join("", nameList);
+
+      // Adding to array
       if (arrayOfNames.Length == 0)
       {
-        string[] newArray = new string[] { name };
+        string[] newArray = new string[] { titleName };
         return newArray;
       }
       else
       {
         // https://stackoverflow.com/questions/202813/adding-values-to-a-c-sharp-array
         // The concat code is used to add two arrays together.
-        string[] temp = { name };
-        string[] newArray = arrayOfNames.Concat(new string[] { name }).ToArray();
+        string[] temp = { titleName };
+        string[] newArray = arrayOfNames.Concat(temp).ToArray();
 
         return newArray;
       }
@@ -135,6 +157,24 @@ namespace ListOfNames
       // This method will take in an array of strings and a string.
       // This method will update an existing entry in the array with the name supplied
 
+      // Capitalization code
+      List<string> nameList = name.Split(",").ToList();
+      nameList[0] = name[0].ToString().ToUpper();
+      int nameIndex = 0;
+      foreach (char letter in name)
+      {
+        if (nameIndex == 0)
+        {
+          nameIndex++;
+        }
+        else
+        {
+          nameList.Add(letter.ToString());
+          nameIndex++;
+        }
+      }
+      string titleName = string.Join("", nameList);
+
       // First need to ask the user if they want to update by name or by index
       Console.WriteLine("Do you wish to update by index or by name?");
       string userInput = Console.ReadLine();
@@ -144,7 +184,7 @@ namespace ListOfNames
           {
             Console.WriteLine("What index would you like to update?");
             int indexToUpdate = (Convert.ToInt32(Console.ReadLine()) - 1);
-            arrayOfNames[indexToUpdate] = name;
+            arrayOfNames[indexToUpdate] = titleName;
             return arrayOfNames;
           }
         case ("name"):
@@ -152,7 +192,7 @@ namespace ListOfNames
             Console.WriteLine("What name would you like to update?");
             string nameToUpdate = Console.ReadLine();
             int indexToUpdate = Array.IndexOf(arrayOfNames, nameToUpdate);
-            arrayOfNames[indexToUpdate] = name;
+            arrayOfNames[indexToUpdate] = titleName;
             return arrayOfNames;
           }
         default:
