@@ -16,6 +16,11 @@ namespace ListOfNames
       // Do not allow names under two characters in length, nor only whitespace. Remove all leading and trailing whitespace from names entered.
       // Ensure all names are stored in the array are title case, but inputs / searchs are case insensitive
 
+      // To do
+      // No duplicates
+      // More than one word in length for names
+      // 
+
       // Initialize the array
       string[] nameList = new string[] { };
       Program self = new Program();
@@ -44,8 +49,16 @@ namespace ListOfNames
                 Console.WriteLine("The name can not be less than 2 characters long!");
                 break;
               }
-              nameList = self.addName(nameList, name);
-              break;
+              else if (name.Contains(" "))
+              {
+                Console.WriteLine("Only one word names are allowed in the list at this time.");
+                break;
+              }
+              else
+              {
+                nameList = self.updateName(nameList, name);
+                break;
+              }
             }
 
           case "update":
@@ -57,8 +70,16 @@ namespace ListOfNames
                 Console.WriteLine("The name can not be less than 2 characters long!");
                 break;
               }
-              nameList = self.updateName(nameList, name);
-              break;
+              else if (name.Contains(" "))
+              {
+                Console.WriteLine("Only one word names are allow in the list at this time.");
+                break;
+              }
+              else
+              {
+                nameList = self.updateName(nameList, name);
+                break;
+              }
             }
 
           case "delete":
