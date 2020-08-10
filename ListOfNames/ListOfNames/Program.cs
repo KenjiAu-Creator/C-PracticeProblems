@@ -55,9 +55,15 @@ namespace ListOfNames
                 Console.WriteLine("--------------------------------------------------------------------------");
                 break;
               }
+              else if (self.Duplicate(nameList, name) == true) 
+              {
+                Console.WriteLine("This name is already in the list");
+                Console.WriteLine("--------------------------------------------------------------------------");
+                break;
+              }
               else
               {
-                nameList = self.addName(nameList, name);
+                nameList = self.AddName(nameList, name);
                 break;
               }
             }
@@ -78,22 +84,28 @@ namespace ListOfNames
                 Console.WriteLine("--------------------------------------------------------------------------");
                 break;
               }
+              else if (self.Duplicate(nameList, name) == true)
+              {
+                Console.WriteLine("This name is already in the list");
+                Console.WriteLine("--------------------------------------------------------------------------");
+                break;
+              }
               else
               {
-                nameList = self.updateName(nameList, name);
+                nameList = self.UpdateName(nameList, name);
                 break;
               }
             }
 
           case "delete":
             {
-              nameList = self.deleteName(nameList);
+              nameList = self.DeleteName(nameList);
               break;
             }
 
           case "output":
             {
-              self.outputName(nameList);
+              self.OutputName(nameList);
               break;
             }
           case "exit":
@@ -111,29 +123,14 @@ namespace ListOfNames
       }
     }
 
-    public string[] addName(string[] arrayOfNames, string name)
+    public string[] AddName(string[] arrayOfNames, string name)
     {
       // This method will take in an Array of strings and a string. 
       // This method will output a new Array with the name added.
       // If the array of names is empty, a new array is made with the inputted name
 
-      // Capitalization code
-      List<string> nameList = name.Split(",").ToList();
-      nameList[0] = name[0].ToString().ToUpper();
-      int nameIndex = 0;
-      foreach (char letter in name)
-      {
-        if (nameIndex == 0)
-        {
-          nameIndex++;
-        }
-        else
-        {
-          nameList.Add(letter.ToString());
-          nameIndex++;
-        }
-      }
-      string titleName = string.Join("", nameList);
+      Program self = new Program();
+      string titleName = self.Capitalize(name);
 
       // Adding to array
       if (arrayOfNames.Length == 0)
@@ -152,28 +149,14 @@ namespace ListOfNames
       }
     }
 
-    public string[] updateName(string[] arrayOfNames, string name)
+    public string[] UpdateName(string[] arrayOfNames, string name)
     {
       // This method will take in an array of strings and a string.
       // This method will update an existing entry in the array with the name supplied
 
       // Capitalization code
-      List<string> nameList = name.Split(",").ToList();
-      nameList[0] = name[0].ToString().ToUpper();
-      int nameIndex = 0;
-      foreach (char letter in name)
-      {
-        if (nameIndex == 0)
-        {
-          nameIndex++;
-        }
-        else
-        {
-          nameList.Add(letter.ToString());
-          nameIndex++;
-        }
-      }
-      string titleName = string.Join("", nameList);
+      Program self = new Program();
+      string titleName = self.Capitalize(name);
 
       // First need to ask the user if they want to update by name or by index
       Console.WriteLine("Do you wish to update by index or by name?");
@@ -203,10 +186,12 @@ namespace ListOfNames
       }
     }
 
-    public string[] deleteName(string[] arrayOfNames)
+    public string[] DeleteName(string[] arrayOfNames)
     {
       // This method will take in an array of strings
       // This method will delete the name from the existing array
+
+      Program self = new Program();
 
       // First ask the user if they want to delete by name or index
       Console.WriteLine("Do you wish to delete by index or by name?");
@@ -224,9 +209,9 @@ namespace ListOfNames
             {
               i++;
               if (i != indexToDelete)
-                {
-                  listOfNames = listOfNames.Append(name).ToList();
-                }
+              {
+                listOfNames = listOfNames.Append(name).ToList();
+              }
             }
             string[] newArray = listOfNames.ToArray();
             return newArray;
@@ -234,7 +219,8 @@ namespace ListOfNames
         case ("name"):
           {
             Console.WriteLine("What name would you like to delete?");
-            string nameToDelete = Console.ReadLine();
+            string nameToDelete = self.Capitalize(Console.ReadLine());
+
             var listOfNames = new List<string>();
             foreach (string name in arrayOfNames)
             {
@@ -254,7 +240,7 @@ namespace ListOfNames
       }
     }
 
-    public void outputName(string[] arrayOfNames)
+    public void OutputName(string[] arrayOfNames)
     {
       // This method will output the array of names in the system
       Console.WriteLine("                                                    ");
@@ -266,6 +252,48 @@ namespace ListOfNames
         Console.WriteLine(i + ". " + name);
       }
       Console.WriteLine("----------------------------------------------------");
+    }
+
+    public string Capitalize(string name)
+    {
+      // This method will take in a string and capitalize the first letter
+      // the output is also a string
+
+      List<string> nameList = name.Split(",").ToList();
+      nameList[0] = name[0].ToString().ToUpper();
+      int nameIndex = 0;
+      foreach (char letter in name)
+      {
+        if (nameIndex == 0)
+        {
+          nameIndex++;
+        }
+        else
+        {
+          nameList.Add(letter.ToString());
+          nameIndex++;
+        }
+      }
+      string titleName = string.Join("", nameList);
+      return titleName;
+    }
+
+    public Boolean Duplicate(string[] arrayOfNames, string name)
+    {
+      // This method will look through the string array and check to see if the string is already inside.
+      // This method will return true if a duplicate is found in the list.
+      // This method will return false otherwise.
+
+      Program self = new Program();
+      string titleName = self.Capitalize(name);
+      foreach (string entry in arrayOfNames)
+      {
+        if (entry == titleName)
+        {
+          return true;
+        }
+      }
+      return false;
     }
   }
 }
